@@ -1,0 +1,19 @@
+6
+I
+paulo, leandro, gabriela, leticia, amanda, william
+guilherme, leandro, wilson, leticia, marcos
+I
+1, 2, joao, gustavo, 5
+joao, 5
+I
+100, ABC, Camila, 24
+camila, 100, abc, 23
+I
+3, 4, 5, 5, A, B, R
+1, B, C, D, 1
+U
+1, 2, 3, 4, 5
+-1, -2, -3, -4, -5, 0
+U
+Paulo, henrique, pamela, SAMUEL
+Henrique, paulo, PAMELA, Samuel, Paulo

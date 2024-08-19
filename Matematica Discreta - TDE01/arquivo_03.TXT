@@ -1,0 +1,16 @@
+5
+I
+8, banana, 25, 130, morango, abacate
+uva, limao, 14, melancia, 130
+I
+1, 2, 3, 4, 5
+6, 7, 8, 9, 10
+D
+100, ABC, guilherme, 24
+guilherme, 100, ABC, 23
+U
+3, 4, 5, 5, A, B, R
+1, B, C, D, 1
+C
+1, 2, 3, 4, 5
+-1, -2, -3, -4, -5, 0
